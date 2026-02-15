@@ -14,7 +14,7 @@ The layout is designed to be simple and intuitive, ensuring a smooth and user-fr
 ## **Install**
 You can download the application directly from the link below:
 
-Download here
+[Download](https://github.com/kieran-lucas/beginner_matrix-multiplication-app/releases/download/v1.0.0/Matrix-App-v1.0.0.exe)
 
 After downloading, simply run the executable file to start using the application.
 ## **Design**
