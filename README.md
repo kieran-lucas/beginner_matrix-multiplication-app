@@ -18,5 +18,6 @@ Download here
 
 After downloading, simply run the executable file to start using the application.
 ## **Design**
+First of all, the core of this program is the multiplication of two matrices. We use the standard formula to perform the calculation. I have described this formula in more detail in the document: [Matrix Multiplication](https://drive.google.com/file/d/1DHa1o-SEnARh8RUnh4cpEK9fbTWKYXSx/view?usp=sharing)
 
 
