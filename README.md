@@ -26,6 +26,7 @@ As described above, the initial interface of the program is shown below:
 </p>
 After entering the order of the matrix, for example 3, the program will display the interface as follows:
 <br>
+<br>
 
 <p align="center">
   <img src="assets/matrix2.png" width="600"/>
