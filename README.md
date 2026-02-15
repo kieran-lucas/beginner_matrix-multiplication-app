@@ -22,5 +22,5 @@ First of all, the core of this program is the multiplication of two matrices. We
 
 As described above, the initial interface of the program is shown below:
 <p align="center">
-  <img src="assets/matrix2.png" width="500"/>
+  <img src="assets/matrix2.png" width="600"/>
 </p>
