@@ -25,7 +25,7 @@ As described above, the initial interface of the program is shown below:
   <img src="assets/matrix1.png" width="575"/>
 </p>
 After entering the order of the matrix, for example 3, the program will display the interface as follows:
-
+<br>
 
 <p align="center">
   <img src="assets/matrix2.png" width="600"/>
