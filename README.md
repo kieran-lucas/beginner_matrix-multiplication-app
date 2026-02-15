@@ -1,5 +1,3 @@
-Repo Documents: [Matrix Multiplication](https://drive.google.com/file/d/1DHa1o-SEnARh8RUnh4cpEK9fbTWKYXSx/view?usp=sharing)
-
 ## **Overview**
 This is a desktop application built with PySide6 that multiplies two square matrices of order from 1 to 9.
 
@@ -20,5 +18,6 @@ Download here
 
 After downloading, simply run the executable file to start using the application.
 ## **Design**
+I will decompose it into two parts, which are core and ui, the core is the way to calculate multiplicaiton of two matrices, we will apply the formula avaiable, which is write in detail in this document: [Matrix Multiplication](https://drive.google.com/file/d/1DHa1o-SEnARh8RUnh4cpEK9fbTWKYXSx/view?usp=sharing)
 
 
