@@ -21,4 +21,6 @@ After downloading, simply run the executable file to start using the application
 First of all, the core of this program is the multiplication of two matrices. We use the standard formula to perform the calculation. I have described this formula in more detail in the document: [Matrix Multiplication](https://drive.google.com/file/d/1DHa1o-SEnARh8RUnh4cpEK9fbTWKYXSx/view?usp=sharing)
 
 As described above, the initial interface of the program is shown below:
-
+<p align="center">
+  <img src="assets/matrix2.png" width="600"/>
+</p>
